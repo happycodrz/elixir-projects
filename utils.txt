@@ -18,7 +18,6 @@ https://github.com/tpoulsen/focus.git
 https://github.com/pcorey/inject_detect.git
 https://github.com/fanduel/jsonrpc2-elixir.git
 https://github.com/obmarg/kazan.git
-https://github.com/strattadb/margaret.git
 https://github.com/botsqd/match_engine.git
 https://github.com/versilov/matrex.git
 git@github.com:ruby2elixir/mr_t.git

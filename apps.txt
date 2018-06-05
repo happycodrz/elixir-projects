@@ -8,3 +8,4 @@ https://github.com/serverboards/serverboards.git
 https://github.com/levelhq/level.git
 https://github.com/shankardevy/mango.git
 https://github.com/nicksergeant/leather.git
+https://github.com/strattadb/margaret.git
