@@ -24,8 +24,11 @@ git@github.com:ruby2elixir/mr_t.git
 https://github.com/Nebo15/nex_json_schema.git
 https://github.com/plataformatec/nimble_parsec.git
 https://github.com/boydm/phoenix_integration.git
-https://github.com/LRFalk01/pokerboy.git
 https://github.com/surgeventures/protein-elixir.git
 https://github.com/Nebo15/sage.git
 https://github.com/edgurgel/tentacat.git
 https://github.com/teamon/tesla.git
+https://github.com/safwank/Numerix
+https://github.com/shinyscorpion/time_machinex
+https://github.com/hrzndhrn/xema  - Xema is a schema for Elixir validator inspired by JSON Schema
+https://github.com/pylon/penelope
