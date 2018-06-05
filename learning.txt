@@ -1,0 +1,9 @@
+https://github.com/elixirkoans/elixir-koans.git
+https://github.com/ID1019/functional-programming.git
+https://github.com/aviabird/gringotts.git
+https://github.com/WhiteRookPL/learn-elixir-the-hard-way.git
+https://github.com/mmmries/nand2tetris.git
+https://github.com/serverboards/serverboards.git
+https://github.com/levelhq/level.git
+https://github.com/shankardevy/mango.git
+https://github.com/nicksergeant/leather.git
