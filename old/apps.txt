@@ -1,0 +1,12 @@
+https://github.com/cerclecrm/cercle.git
+https://github.com/thechangelog/changelog.com.git
+https://github.com/edenlabllc/ehealth.api.git
+https://github.com/odarriba/elixir_jobs.git
+https://github.com/gothinkster/elixir-phoenix-realworld-example-app.git
+https://github.com/colelawrence/phoenix_watch_together.git
+https://github.com/serverboards/serverboards.git
+https://github.com/levelhq/level.git
+https://github.com/shankardevy/mango.git
+https://github.com/nicksergeant/leather.git
+https://github.com/strattadb/margaret.git
+https://github.com/LRFalk01/pokerboy.git
