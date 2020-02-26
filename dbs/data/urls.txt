@@ -1,1 +1,2 @@
 https://github.com/lucaong/cubdb [] Elixir embedded key/value database
+https://github.com/nyo16/CounterEx [] A small library that simplifies the usage of ETS as Counter(s)
