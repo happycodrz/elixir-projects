@@ -1,2 +1,10 @@
+https://github.com/arjan/sworm [] A user-friendly distributed process registry and process supervisor
+https://github.com/derekkraan/horde [] Horde is a distributed Supervisor and Registry backed by DeltaCrdt
+https://github.com/Frameio/herd []
+https://github.com/GameAnalytics/gascheduler [] Erlang Distributed Scheduler
 https://github.com/mrluc/peerage [] Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others.
+https://github.com/oestrich/squabble [] Simple leader election for Elixir applications
+https://github.com/schlagert/bootstrap [] A simple, yet powerful Erlang cluster bootstrapping application.
 https://github.com/Shikanime/Galaxy [] Seamless Elixir node clustering.
+https://github.com/tsharju/elixir_locker []
+https://github.com/wooga/locker []
