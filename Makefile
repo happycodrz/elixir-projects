@@ -8,4 +8,7 @@ update_schema:
 	export UPDATER_ROOT=$$(pwd)/schema && cd ex && mix update
 
 
-all: update_algos update_config update_schema
+update_testing:
+	export UPDATER_ROOT=$$(pwd)/testing && cd ex && mix update
+
+all: update_algos update_config update_schema update_testing

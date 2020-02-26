@@ -1,4 +1,4 @@
-## Config
+## Configuration patterns for Elixir
 
 ### Navigation
 
