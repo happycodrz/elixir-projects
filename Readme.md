@@ -5,6 +5,7 @@
 - [Configuration](config/Readme.md)
 - [Databases](dbs/Readme.md)
 - [Distributed Programming](distributed/Readme.md)
+- [RPC](rpc/Readme.md)
 - [Schema / Validation](schema/Readme.md)
-- [Testing](testing/Readme.md)
 - [Terminal / TUI / CLI](terminal/Readme.md)
+- [Testing](testing/Readme.md)
