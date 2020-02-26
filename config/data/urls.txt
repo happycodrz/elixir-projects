@@ -1,1 +1,3 @@
+https://github.com/BlakeWilliams/envy [] dotenv like easy loading of environment variables in Elixir
+https://github.com/keathley/vapor [] Runtime configuration system for Elixir
 https://github.com/mrluc/deferred_config [] (older project) support '{:system...}' and ':apply {m,f,a}' patterns in OTP apps
