@@ -1,0 +1,9 @@
+https://github.com/eptis/credo_context_violation [] Credo check to check function calls that violate context boundaries.
+https://github.com/IanLuites/tidy [] Checks documentation and specs of Elixir modules.
+https://github.com/kaorism/credo_envvar [] Add-on for Credo for checking environment variables which evaluated at compile time
+https://github.com/meyercm/elixir_atom_enforcer [] Thumps your compile when you misspell atoms in your code
+https://github.com/mirego/credo_naming [] 🏷 A suite of Credo checks to enforce naming best practices in an Elixir project https://open.mirego.com
+https://github.com/ne-sachirou/inner_cotton [] Collection of recommended Elixir check utilities, and mix tasks to help initializing and maintaining OSS/production codes. https://hex.pm/packages/inner_cotton
+https://github.com/sasa1977/boundary [] manage and restrain cross-module dependencies in Elixir projects
+https://github.com/sketch-hq/nicene [] Additional Credo checks
+https://github.com/surgeventures/modular [] Apply modular programming principles and patterns to build better Elixir apps https://hexdocs.pm/modular

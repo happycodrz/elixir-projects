@@ -22,6 +22,9 @@ update_otp:
 update_schema:
 	export UPDATER_ROOT=$$(pwd)/schema && cd ex && mix update
 
+update_quality:
+	export UPDATER_ROOT=$$(pwd)/quality && cd ex && mix update
+
 update_rpc:
 	export UPDATER_ROOT=$$(pwd)/rpc && cd ex && mix update
 
