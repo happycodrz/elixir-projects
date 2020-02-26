@@ -1,0 +1,1 @@
+https://github.com/mrluc/deferred_config [] (older project) support '{:system...}' and ':apply {m,f,a}' patterns in OTP apps
