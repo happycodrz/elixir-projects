@@ -1,1 +1,2 @@
 https://github.com/koudelka/honeydew [] Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈
+https://github.com/surgeventures/sea-elixir [] Side-effect abstraction for Elixir - signal and observe your side-effects like a pro https://hexdocs.pm/sea

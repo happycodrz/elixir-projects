@@ -1,0 +1,5 @@
+https://github.com/crbelaus/trans [] Embedded translations for Elixir https://hex.pm/packages/trans
+https://github.com/imranismail/ecto_bitfield [] Use bitfields with ecto schemas https://hexdocs.pm/ecto_bitfield/EctoBitfield.html
+https://github.com/Nebo15/ecto_trail [] This package allows to add audit log that is based on Ecto changesets and stored in a separate table.
+https://github.com/sauce-consultants/ecto_audit [] Ecto extensions to support auditing data changes in your Schema.
+https://github.com/zenneriot/ex_audit [] Ecto auditing library that transparently tracks changes and can revert them.

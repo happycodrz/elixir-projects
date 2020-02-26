@@ -1,5 +1,8 @@
 https://github.com/ejpcmac/typed_struct [] An Elixir library for defining structs with a type without writing boilerplate code.
 https://github.com/ExpressApp/construct [] Library for dealing with data structures
+https://github.com/gmartsenkov/gate [] Data validation library for elixir
 https://github.com/hrzndhrn/xema []
+https://github.com/jdl/jibe [] Elixir library for testing that a map/list data structure matches a particular pattern.
 https://github.com/jonasschmidt/ex_json_schema []
+https://github.com/Nebo15/jvalid [] Json Scheme validation helper, that allows to store schemes in a separate files.
 https://github.com/Nebo15/nex_json_schema []

@@ -9,47 +9,31 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
-- [discordapp/loqui](https://github.com/discordapp/loqui) - RPC Transport Layer - with minimal bullshit. <br/> ( 2020-01-10 / 396 commits / 150 stars )
-- [discordapp/manifold](https://github.com/discordapp/manifold) - Fast batch message passing between nodes for Erlang/Elixir. <br/> ( 2019-01-03 / 36 commits / 1.1e3 stars )
-- [discordapp/zen_monitor](https://github.com/discordapp/zen_monitor) - Efficient Process.monitor replacement <br/> ( 2018-12-10 / 1 commits / 49 stars )
-- [g-andrade/backwater](https://github.com/g-andrade/backwater) - Intercluster RPC for Erlang and Elixir <br/> ( 2019-12-21 / 461 commits / 47 stars )
-- [ironbay/riptide](https://github.com/ironbay/riptide) - Pluggable RPC framework <br/> ( 2020-02-23 / 41 commits / 2 stars )
-- [skirino/batched_communication](https://github.com/skirino/batched_communication) - Mostly-transparent batching of remote messages in Erlang/Elixir cluster <br/> ( 2019-09-28 / 16 commits / 4 stars )
+- [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈 <br/> ( 2020-02-10 / 215 commits / 586 stars )
+- [surgeventures/sea-elixir](https://github.com/surgeventures/sea-elixir) - Side-effect abstraction for Elixir - signal and observe your side-effects like a pro <br/> ( 2019-08-02 / 34 commits / 5 stars )
 <!-- /PROJECTS_LIST -->
 
 [⬆ Navigation](#navigation)
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
-- [g-andrade/backwater](https://github.com/g-andrade/backwater) - Intercluster RPC for Erlang and Elixir <br/> (461 commits / 47 stars / 2019-12-21 )
-- [discordapp/loqui](https://github.com/discordapp/loqui) - RPC Transport Layer - with minimal bullshit. <br/> (396 commits / 150 stars / 2020-01-10 )
-- [ironbay/riptide](https://github.com/ironbay/riptide) - Pluggable RPC framework <br/> (41 commits / 2 stars / 2020-02-23 )
-- [discordapp/manifold](https://github.com/discordapp/manifold) - Fast batch message passing between nodes for Erlang/Elixir. <br/> (36 commits / 1.1e3 stars / 2019-01-03 )
-- [skirino/batched_communication](https://github.com/skirino/batched_communication) - Mostly-transparent batching of remote messages in Erlang/Elixir cluster <br/> (16 commits / 4 stars / 2019-09-28 )
-- [discordapp/zen_monitor](https://github.com/discordapp/zen_monitor) - Efficient Process.monitor replacement <br/> (1 commits / 49 stars / 2018-12-10 )
+- [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈 <br/> (215 commits / 586 stars / 2020-02-10 )
+- [surgeventures/sea-elixir](https://github.com/surgeventures/sea-elixir) - Side-effect abstraction for Elixir - signal and observe your side-effects like a pro <br/> (34 commits / 5 stars / 2019-08-02 )
 <!-- /COMMITCOUNT_LIST -->
 [⬆ Navigation](#navigation)
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
-- [ironbay/riptide](https://github.com/ironbay/riptide) - Pluggable RPC framework <br/> ( 2020-02-23 / 41 commits / 2 stars )
-- [discordapp/loqui](https://github.com/discordapp/loqui) - RPC Transport Layer - with minimal bullshit. <br/> ( 2020-01-10 / 396 commits / 150 stars )
-- [g-andrade/backwater](https://github.com/g-andrade/backwater) - Intercluster RPC for Erlang and Elixir <br/> ( 2019-12-21 / 461 commits / 47 stars )
-- [skirino/batched_communication](https://github.com/skirino/batched_communication) - Mostly-transparent batching of remote messages in Erlang/Elixir cluster <br/> ( 2019-09-28 / 16 commits / 4 stars )
-- [discordapp/manifold](https://github.com/discordapp/manifold) - Fast batch message passing between nodes for Erlang/Elixir. <br/> ( 2019-01-03 / 36 commits / 1.1e3 stars )
-- [discordapp/zen_monitor](https://github.com/discordapp/zen_monitor) - Efficient Process.monitor replacement <br/> ( 2018-12-10 / 1 commits / 49 stars )
+- [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈 <br/> ( 2020-02-10 / 215 commits / 586 stars )
+- [surgeventures/sea-elixir](https://github.com/surgeventures/sea-elixir) - Side-effect abstraction for Elixir - signal and observe your side-effects like a pro <br/> ( 2019-08-02 / 34 commits / 5 stars )
 <!-- /ACTIVITY_LIST -->
 
 [⬆ Navigation](#navigation)
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
-- [discordapp/manifold](https://github.com/discordapp/manifold) - Fast batch message passing between nodes for Erlang/Elixir. <br/> (1.1e3 stars / 2019-01-03 / 36 commits )
-- [discordapp/loqui](https://github.com/discordapp/loqui) - RPC Transport Layer - with minimal bullshit. <br/> (150 stars / 2020-01-10 / 396 commits )
-- [discordapp/zen_monitor](https://github.com/discordapp/zen_monitor) - Efficient Process.monitor replacement <br/> (49 stars / 2018-12-10 / 1 commits )
-- [g-andrade/backwater](https://github.com/g-andrade/backwater) - Intercluster RPC for Erlang and Elixir <br/> (47 stars / 2019-12-21 / 461 commits )
-- [skirino/batched_communication](https://github.com/skirino/batched_communication) - Mostly-transparent batching of remote messages in Erlang/Elixir cluster <br/> (4 stars / 2019-09-28 / 16 commits )
-- [ironbay/riptide](https://github.com/ironbay/riptide) - Pluggable RPC framework <br/> (2 stars / 2020-02-23 / 41 commits )
+- [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈 <br/> (586 stars / 2020-02-10 / 215 commits )
+- [surgeventures/sea-elixir](https://github.com/surgeventures/sea-elixir) - Side-effect abstraction for Elixir - signal and observe your side-effects like a pro <br/> (5 stars / 2019-08-02 / 34 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)
