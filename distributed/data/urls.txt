@@ -1,1 +1,2 @@
+https://github.com/mrluc/peerage [] Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others.
 https://github.com/Shikanime/Galaxy [] Seamless Elixir node clustering.
