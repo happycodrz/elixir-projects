@@ -15,16 +15,14 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
-- [Frameio/herd](https://github.com/Frameio/herd) - Elixir cluster manager <br/> ( 2018-11-17 / 11 commits / 8 stars )
-- [GameAnalytics/gascheduler](https://github.com/GameAnalytics/gascheduler) - Erlang Distributed Scheduler <br/> ( 2018-06-07 / 75 commits / 139 stars )
-- [Shikanime/Galaxy](https://github.com/Shikanime/Galaxy) - Simple seamless Elixir node auto clustering. <br/> ( 2020-02-21 / 156 commits / 0 stars )
-- [ZennerIoT/maracuja](https://github.com/ZennerIoT/maracuja) - Spawn processes once per cluster, cope with net-splits <br/> ( 2019-05-03 / 4 commits / 1 stars )
 - [arjan/sworm](https://github.com/arjan/sworm) - A user-friendly distributed process registry and process supervisor <br/> ( 2020-02-11 / 72 commits / 14 stars )
 - [aruki-delivery/columbo](https://github.com/aruki-delivery/columbo) - Erlang service discovery and tracking system for clusters <br/> ( 2018-04-05 / 43 commits / 0 stars )
 - [bitwalker/libcluster](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications <br/> ( 2020-01-13 / 130 commits / 1000 stars )
 - [derekkraan/horde](https://github.com/derekkraan/horde) - Horde is a distributed Supervisor and Registry backed by DeltaCrdt <br/> ( 2019-12-24 / 492 commits / 682 stars )
 - [farhadi/global_supervisor](https://github.com/farhadi/global_supervisor) - A supervisor that dynamically distributes children across the cluster. <br/> ( 2019-02-20 / 7 commits / 3 stars )
 - [florinpatrascu/libcluster_gig](https://github.com/florinpatrascu/libcluster_gig) - A libcluster strategy for Google Managed Instance Groups <br/> ( 2020-01-30 / 3 commits / 1 stars )
+- [Frameio/herd](https://github.com/Frameio/herd) - Elixir cluster manager <br/> ( 2018-11-17 / 11 commits / 8 stars )
+- [GameAnalytics/gascheduler](https://github.com/GameAnalytics/gascheduler) - Erlang Distributed Scheduler <br/> ( 2018-06-07 / 75 commits / 139 stars )
 - [hippware/loner](https://github.com/hippware/loner) - Cluster-wide singleton processes <br/> ( 2019-12-02 / 12 commits / 0 stars )
 - [keathley/groot](https://github.com/keathley/groot) - Distributed KV store for ephemeral data <br/> ( 2020-01-06 / 7 commits / 6 stars )
 - [keathley/rollout](https://github.com/keathley/rollout) - Feature Flags based on LWW registers and HLCs <br/> ( 2020-01-05 / 10 commits / 18 stars )
@@ -35,10 +33,12 @@
 - [quiqupltd/libelection](https://github.com/quiqupltd/libelection) - Library to perform leader election in a cluster of containerized Elixir nodes <br/> ( 2019-04-05 / 20 commits / 9 stars )
 - [rabbitmq/ra](https://github.com/rabbitmq/ra) - A Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raft clusters in a single system. <br/> ( 2020-02-26 / 1024 commits / 346 stars )
 - [schlagert/bootstrap](https://github.com/schlagert/bootstrap) - A simple, yet powerful Erlang cluster bootstrapping application. <br/> ( 2017-11-06 / 85 commits / 88 stars )
+- [Shikanime/Galaxy](https://github.com/Shikanime/Galaxy) - Simple seamless Elixir node auto clustering. <br/> ( 2020-02-21 / 156 commits / 0 stars )
 - [skirino/raft_kv](https://github.com/skirino/raft_kv) - An Elixir library to store key-value pairs in a distributed, fault-tolerant, self-adjusting data structure <br/> ( 2019-04-16 / 40 commits / 7 stars )
 - [skirino/rafted_value](https://github.com/skirino/rafted_value) - A Raft implementation in Elixir <br/> ( 2020-01-19 / 182 commits / 46 stars )
 - [tsharju/elixir_locker](https://github.com/tsharju/elixir_locker) -  <br/> ( 2015-11-26 / 54 commits / 15 stars )
 - [wooga/locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys <br/> ( 2015-12-14 / 103 commits / 150 stars )
+- [ZennerIoT/maracuja](https://github.com/ZennerIoT/maracuja) - Spawn processes once per cluster, cope with net-splits <br/> ( 2019-05-03 / 4 commits / 1 stars )
 - [https://gitlab.com/godot-groups/distributed_ecs](https://gitlab.com/godot-groups/distributed_ecs) - --- <br/> ( --- / 0 commits / 0 stars )
 <!-- /PROJECTS_LIST -->
 
