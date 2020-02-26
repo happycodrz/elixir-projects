@@ -1,0 +1,3 @@
+https://github.com/hrzndhrn/xema []
+https://github.com/jonasschmidt/ex_json_schema []
+https://github.com/Nebo15/nex_json_schema []
