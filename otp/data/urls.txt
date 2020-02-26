@@ -3,6 +3,7 @@ https://github.com/dantswain/patiently [] Helpers for waiting on asynchronous ev
 https://github.com/discordapp/gen_registry [] Simple and efficient local Process Registry
 https://github.com/Frameio/parallax [] Parallelization made simple. Supports three basic use cases: running n tasks in parallel, running an arbitrary sequence of batches of parallel tasks, passing the results along the way, and nesting sequences of parallelized tasks for more complicated graphs of control flow.
 https://github.com/jfrolich/defer [] Defer implementation for Elixir
+https://github.com/mtrudel/thousand_island [] Thousand Island is a pure Elixir socket server
 https://github.com/nerves-project/system_registry [] Serial nested term storage and dispatch registry
 https://github.com/RaymondLoranger/dynamic_supervisor_proxy [] Starts a module-based supervisor process. Will wait a bit if the supervisor name is still registered on restarts.
 https://github.com/RaymondLoranger/gen_server_proxy [] Performs a GenServer call, cast or stop. Will wait a bit if the server is not yet registered on restarts.

@@ -3,4 +3,4 @@ https://github.com/discordapp/manifold [] Fast batch message passing between nod
 https://github.com/discordapp/zen_monitor [] ZenMonitor allows for the efficient monitoring of remote processes with minimal use of ERTS Distribution.
 https://github.com/g-andrade/backwater []
 https://github.com/ironbay/riptide [] Pluggable RPC framework
-https://github.com/skirino/batched_communication []
+https://github.com/skirino/batched_communication [] Mostly-transparent batching of remote messages in Erlang/Elixir cluster

@@ -1,6 +1,8 @@
+https://github.com/bitwalker/libring [] A fast consistent hash ring implementation in Elixir
 https://github.com/ExpressApp/construct_types [] ConstructTypes
 https://github.com/infinitered/maybe [] Access Elixir maps and structs, protected from `nil`
 https://github.com/ironbay/dynamic [] Libraries for dealing with deeply nested data in various languages
 https://github.com/mbramson/struct_access [] Elixir library Providing a generic implementation of the `Access` behaviour.
 https://github.com/meh/elixir-datastructures [] Datastructures for Elixir.
+https://github.com/reset/hash-ring-ex [] A consistent hash-ring implemention leveraging the excellent C hash-ring lib by Chris Moos for Elixir.
 https://github.com/sgilson/mine [] A minimalistic anti-corruption layer for Elixir structs

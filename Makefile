@@ -10,6 +10,12 @@ update_dbs:
 update_distributed:
 	export UPDATER_ROOT=$$(pwd)/distributed && cd ex && mix update
 
+update_ecto:
+	export UPDATER_ROOT=$$(pwd)/ecto && cd ex && mix update
+
+update_msgque:
+	export UPDATER_ROOT=$$(pwd)/msgque && cd ex && mix update
+
 update_otp:
 	export UPDATER_ROOT=$$(pwd)/otp && cd ex && mix update
 
