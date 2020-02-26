@@ -1,3 +1,5 @@
+https://github.com/discordapp/loqui [] RPC Transport Layer - with minimal bullshit.
 https://github.com/discordapp/manifold [] Fast batch message passing between nodes for Erlang/Elixir. (0 deps, Elixir)
+https://github.com/discordapp/zen_monitor [] ZenMonitor allows for the efficient monitoring of remote processes with minimal use of ERTS Distribution.
 https://github.com/g-andrade/backwater []
 https://github.com/skirino/batched_communication []
