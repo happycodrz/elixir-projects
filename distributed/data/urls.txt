@@ -21,5 +21,6 @@ https://github.com/skirino/raft_kv [] An Elixir library to store key-value pairs
 https://github.com/skirino/rafted_value [] A Raft implementation in Elixir
 https://github.com/tsharju/elixir_locker []
 https://github.com/wooga/locker []
+https://github.com/ZennerIoT/bucket_hydra [] A bucket-based rate limit algorithm with support for clusters
 https://github.com/ZennerIoT/maracuja [] Spawn processes once per cluster, cope with net-splits
 https://gitlab.com/godot-groups/distributed_ecs [] A distributed ECS (Entity-Component-System) framework in Elixir
