@@ -1,1 +1,5 @@
+https://github.com/bitwalker/artificery [] A toolkit for creating terminal user interfaces in Elixir
+https://github.com/blackode/elixir_cli_spinners [] Spinnig Animations for Command Line Applications
+https://github.com/khusnetdinov/loki [] 📝 Loki is library that includes helpers for building powerful interactive command line applications, tasks, modules.
+https://github.com/ndreynolds/ratatouille [] A TUI (terminal UI) kit for Elixir
 https://github.com/tehprofessor/historian [] An interactive history manager and snippet archival tool for IEx

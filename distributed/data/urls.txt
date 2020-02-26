@@ -1,17 +1,24 @@
 https://github.com/arjan/sworm [] A user-friendly distributed process registry and process supervisor
 https://github.com/aruki-delivery/columbo [] Erlang service discovery and tracking system for clusters
 https://github.com/bitwalker/libcluster [] Automatic cluster formation/healing for Elixir applications
+https://github.com/cabol/nebulex [] A fast, flexible and powerful distributed caching framework for Elixir
+https://github.com/derekkraan/delta_crdt_ex [] Use DeltaCrdt to build distributed applications in Elixir
 https://github.com/derekkraan/horde [] Horde is a distributed Supervisor and Registry backed by DeltaCrdt
 https://github.com/farhadi/global_supervisor [] A supervisor that dynamically distributes children across the cluster.
 https://github.com/florinpatrascu/libcluster_gig [gcloud] A libcluster strategy for Google Managed Instance Groups
 https://github.com/Frameio/herd []
 https://github.com/GameAnalytics/gascheduler [] Erlang Distributed Scheduler
 https://github.com/hippware/loner [] Cluster-wide singleton processes
+https://github.com/kbrw/supervisorring [] otp/supervisor-like interface to supervise distributed processes
+https://github.com/keathley/distsys_training [] Distributed Systems Training with Elixir
 https://github.com/keathley/groot [] Distributed KV store for ephemeral data
 https://github.com/keathley/rollout [] Feature Flags based on LWW registers and HLCs
 https://github.com/kelostrada/swarm_dynamic_supervisor [] Supervisor for Swarm registered processes to handle process crashes like regular DynamicSupervisor.
+https://github.com/lyokato/redlock [] Elixir Library: Redis Distributed Lock implementation
 https://github.com/mrluc/peerage [] Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others.
 https://github.com/oestrich/squabble [] Simple leader election for Elixir applications
+https://github.com/ostinelli/syn [] A global Process Registry and Process Group manager for Erlang and Elixir.
+https://github.com/phoenixframework/phoenix_pubsub [] Distributed PubSub and Presence platform for the Phoenix Framework
 https://github.com/pkinney/carmen [] Carmen is a streaming database for location events.
 https://github.com/quiqupltd/libelection [] Library to perform leader election in a cluster of containerized Elixir nodes
 https://github.com/rabbitmq/ra [] A Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raft clusters in a single system.
@@ -20,6 +27,8 @@ https://github.com/Shikanime/Galaxy [] Seamless Elixir node clustering.
 https://github.com/skirino/raft_kv [] An Elixir library to store key-value pairs in a distributed, fault-tolerant, self-adjusting data structure
 https://github.com/skirino/rafted_value [] A Raft implementation in Elixir
 https://github.com/tsharju/elixir_locker []
+https://github.com/VoiceLayer/dht [] A Distributed Hash Table Using the Dispatch Library
+https://github.com/VoiceLayer/dispatch [] A distributed service registry built on top of phoenix_pubsub. https://hex.pm/packages/dispatch
 https://github.com/wooga/locker []
 https://github.com/ZennerIoT/bucket_hydra [] A bucket-based rate limit algorithm with support for clusters
 https://github.com/ZennerIoT/maracuja [] Spawn processes once per cluster, cope with net-splits
