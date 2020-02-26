@@ -1,5 +1,11 @@
 ## Distributed Programming in Elixir / Erlang
 
+- [Modelling Distributed Erlang within a Single Node](https://www.youtube.com/watch?v=Hi9maV1oLhI&index=38&list=WL&t=279s)
+- [A model of a distributed Erlang network within a single VM.](https://github.com/klarna/vnet)
+- [Testing Eventual Consistency in Riak](https://www.youtube.com/watch?v=x9mW54GJpG0&index=62&list=WL&t=0s)
+- [Knee Deep Into P2P - Fernando Mendes - ElixirConfEU 2018 - TESTING sockets](https://youtu.be/Y545Tp6iM28?list=WL&t=535)
+
+
 ### Navigation
 
 - [By Name](#by-name)
