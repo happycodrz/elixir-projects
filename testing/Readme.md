@@ -25,8 +25,8 @@
 - [ironbay/tunk](https://github.com/ironbay/tunk) - Elixir application for forwarding Google Cloud Platform build statuses to Github and Slack. <br/> (57 commits / 1 stars / 2019-09-17 )
 - [bitwalker/ex_unit_clustered_case](https://github.com/bitwalker/ex_unit_clustered_case) - An extension for ExUnit for simplifying tests against a clustered application <br/> (48 commits / 48 stars / 2019-07-12 )
 - [whitfin/local-cluster](https://github.com/whitfin/local-cluster) - Easy local cluster creation for Elixir to aid in unit testing <br/> (36 commits / 113 stars / 2019-08-02 )
-- [am-kantox/cloister](https://github.com/am-kantox/cloister) - Lightweight Cluster handling with support for consensus and dynamic configuration <br/> (33 commits / 0 stars / 2020-02-04 )
 - [am-kantox/test_cluster_task](https://github.com/am-kantox/test_cluster_task) - Run tests in a distributed environment (cluster with several nodes) <br/> (33 commits / 0 stars / 2020-02-05 )
+- [am-kantox/cloister](https://github.com/am-kantox/cloister) - Lightweight Cluster handling with support for consensus and dynamic configuration <br/> (33 commits / 0 stars / 2020-02-04 )
 - [tokubass/ex_struct_assert](https://github.com/tokubass/ex_struct_assert) - A useful tool for testing sturct and map in Elixir. <br/> (22 commits / 1 stars / 2018-06-18 )
 - [sschneider1207/distributed_test](https://github.com/sschneider1207/distributed_test) - Mix task for running tests for a distributed application <br/> (15 commits / 7 stars / 2017-03-03 )
 <!-- /COMMITCOUNT_LIST -->
@@ -52,8 +52,8 @@
 - [sschneider1207/distributed_test](https://github.com/sschneider1207/distributed_test) - Mix task for running tests for a distributed application <br/> (7 stars / 2017-03-03 / 15 commits )
 - [tokubass/ex_struct_assert](https://github.com/tokubass/ex_struct_assert) - A useful tool for testing sturct and map in Elixir. <br/> (1 stars / 2018-06-18 / 22 commits )
 - [ironbay/tunk](https://github.com/ironbay/tunk) - Elixir application for forwarding Google Cloud Platform build statuses to Github and Slack. <br/> (1 stars / 2019-09-17 / 57 commits )
-- [am-kantox/cloister](https://github.com/am-kantox/cloister) - Lightweight Cluster handling with support for consensus and dynamic configuration <br/> (0 stars / 2020-02-04 / 33 commits )
 - [am-kantox/test_cluster_task](https://github.com/am-kantox/test_cluster_task) - Run tests in a distributed environment (cluster with several nodes) <br/> (0 stars / 2020-02-05 / 33 commits )
+- [am-kantox/cloister](https://github.com/am-kantox/cloister) - Lightweight Cluster handling with support for consensus and dynamic configuration <br/> (0 stars / 2020-02-04 / 33 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)

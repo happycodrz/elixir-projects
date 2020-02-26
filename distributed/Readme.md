@@ -66,8 +66,8 @@
 - [Frameio/herd](https://github.com/Frameio/herd) - Elixir cluster manager <br/> (11 commits / 8 stars / 2018-11-17 )
 - [kelostrada/swarm_dynamic_supervisor](https://github.com/kelostrada/swarm_dynamic_supervisor) -  <br/> (11 commits / 3 stars / 2018-02-11 )
 - [keathley/rollout](https://github.com/keathley/rollout) - Feature Flags based on LWW registers and HLCs <br/> (10 commits / 18 stars / 2020-01-05 )
-- [keathley/groot](https://github.com/keathley/groot) - Distributed KV store for ephemeral data <br/> (7 commits / 6 stars / 2020-01-06 )
 - [farhadi/global_supervisor](https://github.com/farhadi/global_supervisor) - A supervisor that dynamically distributes children across the cluster. <br/> (7 commits / 3 stars / 2019-02-20 )
+- [keathley/groot](https://github.com/keathley/groot) - Distributed KV store for ephemeral data <br/> (7 commits / 6 stars / 2020-01-06 )
 - [ZennerIoT/maracuja](https://github.com/ZennerIoT/maracuja) - Spawn processes once per cluster, cope with net-splits <br/> (4 commits / 1 stars / 2019-05-03 )
 - [florinpatrascu/libcluster_gig](https://github.com/florinpatrascu/libcluster_gig) - A libcluster strategy for Google Managed Instance Groups <br/> (3 commits / 1 stars / 2020-01-30 )
 - [https://gitlab.com/godot-groups/distributed_ecs](https://gitlab.com/godot-groups/distributed_ecs) - --- <br/> (0 commits / 0 stars / --- )
@@ -128,10 +128,10 @@
 - [kelostrada/swarm_dynamic_supervisor](https://github.com/kelostrada/swarm_dynamic_supervisor) -  <br/> (3 stars / 2018-02-11 / 11 commits )
 - [florinpatrascu/libcluster_gig](https://github.com/florinpatrascu/libcluster_gig) - A libcluster strategy for Google Managed Instance Groups <br/> (1 stars / 2020-01-30 / 3 commits )
 - [ZennerIoT/maracuja](https://github.com/ZennerIoT/maracuja) - Spawn processes once per cluster, cope with net-splits <br/> (1 stars / 2019-05-03 / 4 commits )
-- [aruki-delivery/columbo](https://github.com/aruki-delivery/columbo) - Erlang service discovery and tracking system for clusters <br/> (0 stars / 2018-04-05 / 43 commits )
 - [https://gitlab.com/godot-groups/distributed_ecs](https://gitlab.com/godot-groups/distributed_ecs) - --- <br/> (0 stars / --- / 0 commits )
-- [Shikanime/Galaxy](https://github.com/Shikanime/Galaxy) - Simple seamless Elixir node auto clustering. <br/> (0 stars / 2020-02-21 / 156 commits )
 - [hippware/loner](https://github.com/hippware/loner) - Cluster-wide singleton processes <br/> (0 stars / 2019-12-02 / 12 commits )
+- [aruki-delivery/columbo](https://github.com/aruki-delivery/columbo) - Erlang service discovery and tracking system for clusters <br/> (0 stars / 2018-04-05 / 43 commits )
+- [Shikanime/Galaxy](https://github.com/Shikanime/Galaxy) - Simple seamless Elixir node auto clustering. <br/> (0 stars / 2020-02-21 / 156 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)
