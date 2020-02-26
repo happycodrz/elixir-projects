@@ -1,3 +1,5 @@
+https://github.com/ejpcmac/typed_struct [] An Elixir library for defining structs with a type without writing boilerplate code.
+https://github.com/ExpressApp/construct [] Library for dealing with data structures
 https://github.com/hrzndhrn/xema []
 https://github.com/jonasschmidt/ex_json_schema []
 https://github.com/Nebo15/nex_json_schema []

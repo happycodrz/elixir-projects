@@ -1,1 +1,2 @@
 https://github.com/ironbay/tunk [] Elixir application for forwarding Google Cloud Platform build statuses to Github and Slack.
+https://github.com/tokubass/ex_struct_assert [] A useful tool for testing sturct and map in Elixir.
