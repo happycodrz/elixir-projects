@@ -1,0 +1,3 @@
+https://github.com/dantswain/patiently [] Helpers for waiting on asynchronous events
+https://github.com/Frameio/parallax [] Parallelization made simple. Supports three basic use cases: running n tasks in parallel, running an arbitrary sequence of batches of parallel tasks, passing the results along the way, and nesting sequences of parallelized tasks for more complicated graphs of control flow.
+https://github.com/jfrolich/defer [] Defer implementation for Elixir
