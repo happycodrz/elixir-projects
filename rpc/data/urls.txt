@@ -1,0 +1,3 @@
+https://github.com/discordapp/manifold [] Fast batch message passing between nodes for Erlang/Elixir. (0 deps, Elixir)
+https://github.com/g-andrade/backwater []
+https://github.com/skirino/batched_communication []

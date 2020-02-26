@@ -13,10 +13,13 @@ update_distributed:
 update_schema:
 	export UPDATER_ROOT=$$(pwd)/schema && cd ex && mix update
 
+update_rpc:
+	export UPDATER_ROOT=$$(pwd)/rpc && cd ex && mix update
+
 update_testing:
 	export UPDATER_ROOT=$$(pwd)/testing && cd ex && mix update
 
 update_terminal:
 	export UPDATER_ROOT=$$(pwd)/terminal && cd ex && mix update
 
-all: update_algos update_config update_distributed update_dbs update_schema update_testing update_terminal
+all: update_algos update_config update_distributed update_dbs update_rpc update_schema update_testing update_terminal
