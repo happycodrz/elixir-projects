@@ -16,6 +16,9 @@ update_ecto:
 update_msgque:
 	export UPDATER_ROOT=$$(pwd)/msgque && cd ex && mix update
 
+update_protection:
+	export UPDATER_ROOT=$$(pwd)/protection && cd ex && mix update
+
 update_otp:
 	export UPDATER_ROOT=$$(pwd)/otp && cd ex && mix update
 
@@ -41,6 +44,7 @@ all: update_algos \
 		update_distributed \
 		update_ecto \
 		update_otp \
+		update_protection \
 		update_rpc \
 		update_schema \
 		update_testing \
