@@ -31,4 +31,14 @@ update_testing:
 update_terminal:
 	export UPDATER_ROOT=$$(pwd)/terminal && cd ex && mix update
 
-all: update_algos update_config update_distributed update_dbs update_rpc update_schema update_testing update_terminal
+
+all: update_algos \
+		update_config \
+		update_dbs \
+		update_distributed \
+		update_ecto \
+		update_otp \
+		update_rpc \
+		update_schema \
+		update_testing \
+		update_terminal
