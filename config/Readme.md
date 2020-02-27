@@ -11,7 +11,7 @@
 <!-- PROJECTS_LIST -->
 - [BlakeWilliams/envy](https://github.com/BlakeWilliams/envy) - dotenv like easy loading of environment variables in Elixir <br/> ( 2018-08-15 / 21 commits / 52 stars )
 - [ironbay/brine](https://github.com/ironbay/brine) - Configuration loader for Elixir projects <br/> ( 2019-12-23 / 6 commits / 23 stars )
-- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> ( 2020-02-24 / 114 commits / 243 stars )
+- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> ( 2020-02-24 / 114 commits / 245 stars )
 - [mrluc/deferred_config](https://github.com/mrluc/deferred_config) - (older project) support '{:system...}' and ':apply {m,f,a}' patterns in OTP apps <br/> ( 2017-01-18 / 5 commits / 28 stars )
 <!-- /PROJECTS_LIST -->
 
@@ -19,7 +19,7 @@
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
-- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> (114 commits / 243 stars / 2020-02-24 )
+- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> (114 commits / 245 stars / 2020-02-24 )
 - [BlakeWilliams/envy](https://github.com/BlakeWilliams/envy) - dotenv like easy loading of environment variables in Elixir <br/> (21 commits / 52 stars / 2018-08-15 )
 - [ironbay/brine](https://github.com/ironbay/brine) - Configuration loader for Elixir projects <br/> (6 commits / 23 stars / 2019-12-23 )
 - [mrluc/deferred_config](https://github.com/mrluc/deferred_config) - (older project) support '{:system...}' and ':apply {m,f,a}' patterns in OTP apps <br/> (5 commits / 28 stars / 2017-01-18 )
@@ -28,7 +28,7 @@
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
-- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> ( 2020-02-24 / 114 commits / 243 stars )
+- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> ( 2020-02-24 / 114 commits / 245 stars )
 - [ironbay/brine](https://github.com/ironbay/brine) - Configuration loader for Elixir projects <br/> ( 2019-12-23 / 6 commits / 23 stars )
 - [BlakeWilliams/envy](https://github.com/BlakeWilliams/envy) - dotenv like easy loading of environment variables in Elixir <br/> ( 2018-08-15 / 21 commits / 52 stars )
 - [mrluc/deferred_config](https://github.com/mrluc/deferred_config) - (older project) support '{:system...}' and ':apply {m,f,a}' patterns in OTP apps <br/> ( 2017-01-18 / 5 commits / 28 stars )
@@ -38,7 +38,7 @@
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
-- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> (243 stars / 2020-02-24 / 114 commits )
+- [keathley/vapor](https://github.com/keathley/vapor) - Runtime configuration system for Elixir <br/> (245 stars / 2020-02-24 / 114 commits )
 - [BlakeWilliams/envy](https://github.com/BlakeWilliams/envy) - dotenv like easy loading of environment variables in Elixir <br/> (52 stars / 2018-08-15 / 21 commits )
 - [mrluc/deferred_config](https://github.com/mrluc/deferred_config) - (older project) support '{:system...}' and ':apply {m,f,a}' patterns in OTP apps <br/> (28 stars / 2017-01-18 / 5 commits )
 - [ironbay/brine](https://github.com/ironbay/brine) - Configuration loader for Elixir projects <br/> (23 stars / 2019-12-23 / 6 commits )
