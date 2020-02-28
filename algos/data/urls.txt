@@ -4,5 +4,15 @@ https://github.com/infinitered/maybe [] Access Elixir maps and structs, protecte
 https://github.com/ironbay/dynamic [] Libraries for dealing with deeply nested data in various languages
 https://github.com/mbramson/struct_access [] Elixir library Providing a generic implementation of the `Access` behaviour.
 https://github.com/meh/elixir-datastructures [] Datastructures for Elixir.
+https://github.com/preciz/abit [] Use :atomics as a bit array or as an array of N-bit counters
+https://github.com/preciz/levenshtein [] Levenshtein distance implementation in Elixir.
+https://github.com/preciz/matrax [] A matrix library in pure Elixir based on atomics.
+https://github.com/preciz/max [] A matrix library in pure Elixir based on Erlang arrays.
+https://github.com/preciz/similarity [] A library for cosine similarity & simhash calculation
+https://github.com/preciz/talan [] Probabilistic data structures (bloom filter / counting bloom filter / linear counter)
+https://github.com/preciz/WFC [] Wave Function Collapse implemented in Elixir
 https://github.com/reset/hash-ring-ex [] A consistent hash-ring implemention leveraging the excellent C hash-ring lib by Chris Moos for Elixir.
 https://github.com/sgilson/mine [] A minimalistic anti-corruption layer for Elixir structs
+https://github.com/UniversalAvenue/simhash-ex [] Elixir implementation of Simhash
+https://github.com/versilov/matrex [] A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+https://github.com/wkhere/eastar [] A* graph pathfinding in pure Elixir
