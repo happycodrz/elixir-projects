@@ -13,6 +13,12 @@ update_distributed:
 update_ecto:
 	export UPDATER_ROOT=$$(pwd)/ecto && cd ex && mix update
 
+update_fun:
+	export UPDATER_ROOT=$$(pwd)/fun && cd ex && mix update
+
+update_langs:
+	export UPDATER_ROOT=$$(pwd)/langs && cd ex && mix update
+
 update_msgque:
 	export UPDATER_ROOT=$$(pwd)/msgque && cd ex && mix update
 

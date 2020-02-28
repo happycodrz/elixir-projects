@@ -9,6 +9,7 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
+- [botsquad/graceful_stop](https://github.com/botsquad/graceful_stop) - Elixir OTP application to gracefully stop the system after running shutdown hooks. Also catches SIGTERM. <br/> ( 2020-01-29 / 15 commits / 6 stars )
 - [danielberkompas/immortal](https://github.com/danielberkompas/immortal) - Helper modules for OTP applications <br/> ( 2018-03-06 / 27 commits / 152 stars )
 - [dantswain/patiently](https://github.com/dantswain/patiently) - Helpers for waiting on asynchronous events <br/> ( 2018-02-28 / 18 commits / 10 stars )
 - [discordapp/gen_registry](https://github.com/discordapp/gen_registry) - Simple and efficient local Process Registry <br/> ( 2019-06-21 / 8 commits / 32 stars )
@@ -31,6 +32,7 @@
 - [RaymondLoranger/dynamic_supervisor_proxy](https://github.com/RaymondLoranger/dynamic_supervisor_proxy) - Starts a module-based supervisor process. Will wait a bit if the supervisor name is still registered on restarts. <br/> (26 commits / 0 stars / 2019-01-29 )
 - [dantswain/patiently](https://github.com/dantswain/patiently) - Helpers for waiting on asynchronous events <br/> (18 commits / 10 stars / 2018-02-28 )
 - [jfrolich/defer](https://github.com/jfrolich/defer) -  <br/> (15 commits / 1 stars / 2018-04-21 )
+- [botsquad/graceful_stop](https://github.com/botsquad/graceful_stop) - Elixir OTP application to gracefully stop the system after running shutdown hooks. Also catches SIGTERM. <br/> (15 commits / 6 stars / 2020-01-29 )
 - [Frameio/parallax](https://github.com/Frameio/parallax) - Parallel operations in Elixir. <br/> (11 commits / 0 stars / 2018-12-13 )
 - [discordapp/gen_registry](https://github.com/discordapp/gen_registry) - Simple and efficient local Process Registry <br/> (8 commits / 32 stars / 2019-06-21 )
 <!-- /COMMITCOUNT_LIST -->
@@ -39,6 +41,7 @@
 ### By Activity
 <!-- ACTIVITY_LIST -->
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server <br/> ( 2020-01-29 / 60 commits / 7 stars )
+- [botsquad/graceful_stop](https://github.com/botsquad/graceful_stop) - Elixir OTP application to gracefully stop the system after running shutdown hooks. Also catches SIGTERM. <br/> ( 2020-01-29 / 15 commits / 6 stars )
 - [discordapp/gen_registry](https://github.com/discordapp/gen_registry) - Simple and efficient local Process Registry <br/> ( 2019-06-21 / 8 commits / 32 stars )
 - [nerves-project/system_registry](https://github.com/nerves-project/system_registry) - Serial nested term storage and dispatch registry <br/> ( 2019-03-15 / 102 commits / 11 stars )
 - [RaymondLoranger/gen_server_proxy](https://github.com/RaymondLoranger/gen_server_proxy) - Performs a GenServer call, cast or stop. Will wait a bit if the server is not yet registered on restarts. <br/> ( 2019-01-29 / 28 commits / 0 stars )
@@ -58,10 +61,11 @@
 - [nerves-project/system_registry](https://github.com/nerves-project/system_registry) - Serial nested term storage and dispatch registry <br/> (11 stars / 2019-03-15 / 102 commits )
 - [dantswain/patiently](https://github.com/dantswain/patiently) - Helpers for waiting on asynchronous events <br/> (10 stars / 2018-02-28 / 18 commits )
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server <br/> (7 stars / 2020-01-29 / 60 commits )
+- [botsquad/graceful_stop](https://github.com/botsquad/graceful_stop) - Elixir OTP application to gracefully stop the system after running shutdown hooks. Also catches SIGTERM. <br/> (6 stars / 2020-01-29 / 15 commits )
 - [jfrolich/defer](https://github.com/jfrolich/defer) -  <br/> (1 stars / 2018-04-21 / 15 commits )
 - [RaymondLoranger/gen_server_proxy](https://github.com/RaymondLoranger/gen_server_proxy) - Performs a GenServer call, cast or stop. Will wait a bit if the server is not yet registered on restarts. <br/> (0 stars / 2019-01-29 / 28 commits )
-- [RaymondLoranger/dynamic_supervisor_proxy](https://github.com/RaymondLoranger/dynamic_supervisor_proxy) - Starts a module-based supervisor process. Will wait a bit if the supervisor name is still registered on restarts. <br/> (0 stars / 2019-01-29 / 26 commits )
 - [Frameio/parallax](https://github.com/Frameio/parallax) - Parallel operations in Elixir. <br/> (0 stars / 2018-12-13 / 11 commits )
+- [RaymondLoranger/dynamic_supervisor_proxy](https://github.com/RaymondLoranger/dynamic_supervisor_proxy) - Starts a module-based supervisor process. Will wait a bit if the supervisor name is still registered on restarts. <br/> (0 stars / 2019-01-29 / 26 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)

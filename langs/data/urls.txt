@@ -1,0 +1,7 @@
+https://github.com/bitwalker/combine [] A parser combinator library for Elixir projects
+https://github.com/dashbitco/nimble_parsec [] A simple and fast library for text-based parser combinators
+https://github.com/OvermindDL1/ex_parsing_benchmark [] Benchmark testing between various Elixir parsing libraries
+https://github.com/OvermindDL1/ex_spirit [] Spirit-style PEG-like parsing library for Elixir.
+https://github.com/OvermindDL1/llixer [] Lisp In Elixir
+https://github.com/OvermindDL1/safe_script [] Simple languages designed for embedded scripting in Elixir
+https://github.com/OvermindDL1/typed_elixir [] TypedElixir defmodule replacement testing.
