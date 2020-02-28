@@ -19,6 +19,9 @@ update_fun:
 update_langs:
 	export UPDATER_ROOT=$$(pwd)/langs && cd ex && mix update
 
+update_macros:
+	export UPDATER_ROOT=$$(pwd)/macros && cd ex && mix update
+
 update_msgque:
 	export UPDATER_ROOT=$$(pwd)/msgque && cd ex && mix update
 
