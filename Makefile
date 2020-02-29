@@ -1,3 +1,6 @@
+update_admin:
+	export UPDATER_ROOT=$$(pwd)/admin && cd ex && mix update
+
 update_algos:
 	export UPDATER_ROOT=$$(pwd)/algos && cd ex && mix update
 
@@ -46,6 +49,8 @@ update_testing:
 update_terminal:
 	export UPDATER_ROOT=$$(pwd)/terminal && cd ex && mix update
 
+update_utils:
+	export UPDATER_ROOT=$$(pwd)/utils && cd ex && mix update
 
 all: update_algos \
 		update_config \
