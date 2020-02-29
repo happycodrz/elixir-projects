@@ -16,6 +16,9 @@ update_distributed:
 update_ecto:
 	export UPDATER_ROOT=$$(pwd)/ecto && cd ex && mix update
 
+update_extend:
+	export UPDATER_ROOT=$$(pwd)/extend && cd ex && mix update
+
 update_fun:
 	export UPDATER_ROOT=$$(pwd)/fun && cd ex && mix update
 

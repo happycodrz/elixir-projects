@@ -1,1 +1,2 @@
 https://github.com/luc-tielen/Cure [] Small library that interfaces C-code with Erlang/Elixir using Ports.
+https://github.com/tsutsu/ex_smt [] A Z3 theorem-prover binding in Elixir
