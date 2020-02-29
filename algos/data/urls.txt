@@ -1,5 +1,6 @@
 https://github.com/bitwalker/libring [] A fast consistent hash ring implementation in Elixir
 https://github.com/ExpressApp/construct_types [] ConstructTypes
+https://github.com/gyson/blex [] Fast Bloom filter with concurrent accessibility, powered by :atomics module.
 https://github.com/infinitered/maybe [] Access Elixir maps and structs, protected from `nil`
 https://github.com/ironbay/dynamic [] Libraries for dealing with deeply nested data in various languages
 https://github.com/mbramson/struct_access [] Elixir library Providing a generic implementation of the `Access` behaviour.
