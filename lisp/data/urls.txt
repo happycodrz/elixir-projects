@@ -1,0 +1,32 @@
+https://github.com/aholmn/exlisp [] A lisp interpreter in elixir
+https://github.com/akash-akya/exscheme [] WIP: Toy Scheme implementation in Elixir inspired by SICP
+https://github.com/andrewvy/vape [] Toy scripting language implemented in Elixir for MUD scripting. http://vape-lang.org/
+https://github.com/atamis/ironic-space-lisp [] Stepped lisp interpreter in Rust. https://atamis.me/projects/isl/
+https://github.com/bamorim/lispex [] A Lisp interpreter in Elixir
+https://github.com/barakyo/elisper [] Implementation of a subset of lisp in Elixir
+https://github.com/benfb/elixush [] Push programming language interpreter implemented in Elixir
+https://github.com/benjamintanweihao/langlang [] Learning how to build a language on the BEAM
+https://github.com/bibliobibulus/BISL [] LISP on BEAM
+https://github.com/bkerley/lisp_in_elixir [] LispInElixir
+https://github.com/cpackingham/elixir_lisp_interpreter [] A Scheme implementation in Elixir- please don't use this for anything important
+https://github.com/fabrik42/writing_an_interpreter_in_elixir [] Elixir implementation of an interpreter for the Monkey programming language
+https://github.com/farazhaider/lispex [] Lisp Interpreter in Elixir https://farazhaider.github.io/lispex/…
+https://github.com/Foo42/exlisp [] Implementation of a lisp interpreter in elixir
+https://github.com/gablg1/blisp [] Biel LISP - Simple Lisp interpreter in < 50 lines of code
+https://github.com/goto-engineering/lfex [] Lisp Flavored Elixir
+https://github.com/jeethridge/elisper [] An attempt at writing my first lisp interpreter, in Elixir.
+https://github.com/jwhiteman/lighthouse-scheme [] A toy Scheme-like language on Elixir, just for fun
+https://github.com/lazycoder9/elisp [] Lisp interpretator on Elixir
+https://github.com/liveforeverx/lisir [] Simple lisp interpreter made in elixir.
+https://github.com/llamatarianism/lixp [] A lisp interpreter written in Elixir.
+https://github.com/lpil/soup [] A simple interpreted language written in Elixir
+https://github.com/lycus/flect [] A pragmatic, functional systems programming language.
+https://github.com/nicolasdilley/dwarf-interpreter [] The compiler for the dwarf's language
+https://github.com/nithinbekal/exlisp [] A simple lisp interpreter in Elixir
+https://github.com/nmichel/minilisp [] Playing with LISP
+https://github.com/ntchambers/whiskey [] Irish lisp
+https://github.com/rpip/plex [] Plex programming language
+https://github.com/sasagawa888/Elxlisp [] Lisp1.5 interpreter/compier
+https://github.com/tamamu/macchiato [] An AltJS of a dialect of Lisp
+https://github.com/thaterikperson/erie [] A statically-typed lisp for the BEAM
+https://github.com/wpcarro/lispex [] Lisp compiler written in Elixir
