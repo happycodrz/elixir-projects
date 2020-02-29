@@ -1,0 +1,2 @@
+https://github.com/elixir-cldr/cldr_utils [] Map, Math, String, Calendar utility functions for ex_cldr
+https://github.com/membraneframework/bunch [] A bunch of helper functions, intended to make life easier
