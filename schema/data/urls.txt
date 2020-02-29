@@ -5,6 +5,7 @@ https://github.com/gmartsenkov/gate [] Data validation library for elixir
 https://github.com/hrzndhrn/xema []
 https://github.com/jdl/jibe [] Elixir library for testing that a map/list data structure matches a particular pattern.
 https://github.com/jonasschmidt/ex_json_schema []
+https://github.com/keathley/norm [] Data specification and generation
 https://github.com/Nebo15/jvalid [] Json Scheme validation helper, that allows to store schemes in a separate files.
 https://github.com/Nebo15/nex_json_schema []
 https://github.com/whatyouhide/saul [] Data validation and conformation library for Elixir.
