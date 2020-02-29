@@ -71,3 +71,5 @@ https://github.com/wojtekmach/calendar_recurrence [nimbleparsec] Recurrence is a
 https://github.com/ympons/expreso [] ☕️ A boolean expression parser and evaluator in Elixir.
 https://github.com/zweifisch/eno [] Lightweight SQL toolkit for Elixir
 https://gitlab.com/ryo33/Parselix [] A parser combinator library for Elixir.
+https://github.com/atamis/ironic-space-lisp [] Stepped lisp interpreter in Rust. (also Elixir)
+https://github.com/alejandroerik/ale8583 [] ISO8583(MasterC and PROSA) parser for ELIXIR language.

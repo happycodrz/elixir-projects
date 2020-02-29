@@ -11,6 +11,7 @@
 <!-- PROJECTS_LIST -->
 - [elixir-cldr/cldr_utils](https://github.com/elixir-cldr/cldr_utils) - Map, Math, String, Calendar utility functions for ex_cldr <br/> ( 2020-02-15 / 37 commits / 6 stars )
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier <br/> ( 2020-02-14 / 121 commits / 7 stars )
+- [planswell/kitchen-sink](https://github.com/planswell/kitchen-sink) - Elixir Stdlib Extensions <br/> ( 2019-10-11 / 103 commits / 5 stars )
 <!-- /PROJECTS_LIST -->
 
 [⬆ Navigation](#navigation)
@@ -18,6 +19,7 @@
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier <br/> (121 commits / 7 stars / 2020-02-14 )
+- [planswell/kitchen-sink](https://github.com/planswell/kitchen-sink) - Elixir Stdlib Extensions <br/> (103 commits / 5 stars / 2019-10-11 )
 - [elixir-cldr/cldr_utils](https://github.com/elixir-cldr/cldr_utils) - Map, Math, String, Calendar utility functions for ex_cldr <br/> (37 commits / 6 stars / 2020-02-15 )
 <!-- /COMMITCOUNT_LIST -->
 [⬆ Navigation](#navigation)
@@ -26,6 +28,7 @@
 <!-- ACTIVITY_LIST -->
 - [elixir-cldr/cldr_utils](https://github.com/elixir-cldr/cldr_utils) - Map, Math, String, Calendar utility functions for ex_cldr <br/> ( 2020-02-15 / 37 commits / 6 stars )
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier <br/> ( 2020-02-14 / 121 commits / 7 stars )
+- [planswell/kitchen-sink](https://github.com/planswell/kitchen-sink) - Elixir Stdlib Extensions <br/> ( 2019-10-11 / 103 commits / 5 stars )
 <!-- /ACTIVITY_LIST -->
 
 [⬆ Navigation](#navigation)
@@ -34,6 +37,7 @@
 <!-- POPULARITY_LIST -->
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier <br/> (7 stars / 2020-02-14 / 121 commits )
 - [elixir-cldr/cldr_utils](https://github.com/elixir-cldr/cldr_utils) - Map, Math, String, Calendar utility functions for ex_cldr <br/> (6 stars / 2020-02-15 / 37 commits )
+- [planswell/kitchen-sink](https://github.com/planswell/kitchen-sink) - Elixir Stdlib Extensions <br/> (5 stars / 2019-10-11 / 103 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)
