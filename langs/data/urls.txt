@@ -1,7 +1,7 @@
 https://git.pleroma.social/pleroma/elixir-libraries/bbcode [] Elixir bbcode parser
 https://github.com/alexdesousa/ayesql [] Library for using raw SQL in Elixir
 https://github.com/altenwald/sqlparser [] SQL Parsers
-https://github.com/ArcBlock/rule-parser [] Rule parsers used by forge.
+https://github.com/ArcBlock/rule-parser [nimbleparsec] Rule parsers used by forge.
 https://github.com/arjan/ast_ninja [] The Elixir AST explorer https://ast.ninja/
 https://github.com/arjan/idefix [] Elixir AST utility functions
 https://github.com/barruumrex/marshal [] Decode Ruby Marshal format in Elixir
@@ -10,28 +10,30 @@ https://github.com/bitwalker/combine [] A parser combinator library for Elixir p
 https://github.com/botsquad/match_engine [] In-memory matching/filtering engine with Mongo-like query syntax
 https://github.com/christopher-dG/osu-ex [] osu! tools for Elixir
 https://github.com/dashbitco/nimble_parsec [] A simple and fast library for text-based parser combinators
-https://github.com/edgurgel/solid [] Liquid template engine in Elixir
+https://github.com/edgurgel/solid [nimbleparsec] Liquid template engine in Elixir
 https://github.com/elixirscript/elixir-estree [] The ESTree Nodes and JavaScript AST to JavaScript Code Generator in Elixir
 https://github.com/elixirscript/elixirscript [] Converts Elixir to JavaScript
 https://github.com/fireblast-ui/fireblast [] Fireblast is a html component library that uses a JSX like syntax
 https://github.com/ianrumford/plymio_ast [] Utility Function for Elixir Asts (Quoted Forms)
 https://github.com/ianrumford/plymio_ast_vorm [] Managing a Collection of Quoted Forms (Asts)
 https://github.com/ianrumford/plymio_option [] Utility Functions for Managing Keyword Options
-https://github.com/joshnuss/blip [] A fault-tolerant and concurrent StatsD server
+https://github.com/joshnuss/blip [nimbleparsec] A fault-tolerant and concurrent StatsD server
 https://github.com/joshuawscott/rdb_parser [] Redis .rdb backup file parsing
 https://github.com/jtmoulia/neotomex [] A PEG parser/transformer with a pleasant Elixir DSL.
-https://github.com/kipcole9/abnf [] ABNF parser for Elixir
-https://github.com/LostKobrakai/filter_query_parser [] Small library to handle parsing of github style filter queries.
+https://github.com/kipcole9/abnf [nimbleparsec] ABNF parser for Elixir
+https://github.com/kipcole9/vcard [nimbleparsec] VCard in Elixir
+https://github.com/LostKobrakai/filter_query_parser [nimbleparsec] Small library to handle parsing of github style filter queries.
 https://github.com/lpil/yesql [sql] An Elixir library for using SQL.
 https://github.com/luc-tielen/xml_parsec [] XML parser based on parser combinators, written in pure Elixir
-https://github.com/lukad/bf [] bf is a Brainfuck interpreter written in Elixir.
-https://github.com/m1dnight/bibtex_parser [] A BibTex parser in Elixir, using NimbleParsec.
-https://github.com/m1dnight/weechat-parser [] Parser for Weechat log files in Elixir/Nimble.
+https://github.com/lukad/bf [nimbleparsec] bf is a Brainfuck interpreter written in Elixir.
+https://github.com/m1dnight/bibtex_parser [nimbleparsec] A BibTex parser in Elixir, using NimbleParsec.
+https://github.com/m1dnight/weechat-parser [nimbleparsec] Parser for Weechat log files in Elixir/Nimble.
 https://github.com/MainShayne233/type_resolve [] TypeResolve
 https://github.com/marcelog/ex_abnf [] Parser for ABNF Grammars - This is not a parser generator, but an interpreter.
 https://github.com/marianoguerra/erldn [] edn format parser for the erlang platform
-https://github.com/msaraiva/surface [] An experimental component based library for Phoenix LiveView (https://github.com/msaraiva/surface/blob/master/lib/surface/translator/parser.ex)
-https://github.com/mtannaan/elixpath [] JSONPath-like operations for Elixir's native data structure
+https://github.com/markglenn/liquex [nimbleparsec] Liquid template processor for Elixir
+https://github.com/msaraiva/surface [nimbleparsec] An experimental component based library for Phoenix LiveView (https://github.com/msaraiva/surface/blob/master/lib/surface/translator/parser.ex)
+https://github.com/mtannaan/elixpath [nimbleparsec] JSONPath-like operations for Elixir's native data structure
 https://github.com/narrowtux/abacus [] Parses and evaluates mathematical expressions in Elixir. Inspired by math.js
 https://github.com/narrowtux/loppers [] Validate quoted elixir code against a function whitelist
 https://github.com/olafura/beam_to_ex_ast [] Erlang AST to Elixir AST
@@ -41,10 +43,11 @@ https://github.com/OvermindDL1/llixer [] Lisp In Elixir
 https://github.com/OvermindDL1/protocol_ex [] Elixir Extended Protocol
 https://github.com/OvermindDL1/safe_script [] Simple languages designed for embedded scripting in Elixir
 https://github.com/OvermindDL1/typed_elixir [] TypedElixir defmodule replacement testing.
-https://github.com/podlove/chapters [] Elixir library to parse and format podcast chapters marks
+https://github.com/podlove/chapters [nimbleparsec] Elixir library to parse and format podcast chapters marks
 https://github.com/princemaple/abnf_parsec [] ABNF in, parser out
 https://github.com/radar/chronic [] Like Chronic, but for Elixir.
 https://github.com/rbkmoney/abnfc [] An ABNF parser generator for Erlang.
+https://github.com/SamWoolerton/parser-elixir [nimbleparsec] A proof-of-concept equation parser written in Elixir.
 https://github.com/saulecabrera/leibniz [] Math expression parser and evaluator
 https://github.com/seancribbs/neotoma [] Erlang library and packrat parser-generator for parsing expression grammars.
 https://github.com/serverboards/exosql [] Generic SQL engine in Elixir that uses generic data extractors
@@ -56,13 +59,15 @@ https://github.com/tmbb/ex_spirit_tutorial [] ExSpirit Tutorial
 https://github.com/tmbb/ex_to_erl [] Convert Elixir expressions into Erlang
 https://github.com/tmbb/expo [] PO file parser for Elixir
 https://github.com/tmbb/guaxinim [] Literate programming for Elixir, inspired by Docco and Pycooon
-https://github.com/tmbb/makeup [] Syntax highlighter for elixir inspired by Pygments
-https://github.com/tmbb/makeup_elixir [] Elixir language support for makeup
-https://github.com/tmbb/makeup_erlang [] Erlang lexer for makeup
-https://github.com/tmbb/makeup_html5 [] Makeup - HTML5 Language Support
-https://github.com/tmbb/makeup_lexer_cookiecutter [] Cookiecutter template for a Makeup lexer
-https://github.com/tyrchen/common_parser [] General parsers for various use cases
+https://github.com/tmbb/makeup [nimbleparsec] Syntax highlighter for elixir inspired by Pygments
+https://github.com/tmbb/makeup_elixir [nimbleparsec] Elixir language support for makeup
+https://github.com/tmbb/makeup_erlang [nimbleparsec] Erlang lexer for makeup
+https://github.com/tmbb/makeup_html5 [nimbleparsec] Makeup - HTML5 Language Support
+https://github.com/tmbb/makeup_lexer_cookiecutter [nimbleparsec] Cookiecutter template for a Makeup lexer
+https://github.com/tyrchen/common_parser [nimbleparsec] General parsers for various use cases
 https://github.com/usecanvas/searchql [] Search query parser written in Elixir
+https://github.com/voltone/plug_signature [nimbleparsec] Plug for verifying request signatures according to the IETF HTTP signatures draft specification
+https://github.com/wojtekmach/calendar_recurrence [nimbleparsec] Recurrence is an Elixir library for working with recurring dates
 https://github.com/ympons/expreso [] ☕️ A boolean expression parser and evaluator in Elixir.
 https://github.com/zweifisch/eno [] Lightweight SQL toolkit for Elixir
 https://gitlab.com/ryo33/Parselix [] A parser combinator library for Elixir.
