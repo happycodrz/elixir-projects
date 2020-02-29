@@ -1,0 +1,1 @@
+https://github.com/revelrylabs/adminable [] Allows creating admin interfaces through implementing the `Adminable` behaviour
