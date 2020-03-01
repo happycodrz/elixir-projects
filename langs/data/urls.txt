@@ -1,9 +1,11 @@
 https://git.pleroma.social/pleroma/elixir-libraries/bbcode [] Elixir bbcode parser
+https://github.com/alejandroerik/ale8583 [] ISO8583(MasterC and PROSA) parser for ELIXIR language.
 https://github.com/alexdesousa/ayesql [] Library for using raw SQL in Elixir
 https://github.com/altenwald/sqlparser [] SQL Parsers
 https://github.com/ArcBlock/rule-parser [nimbleparsec] Rule parsers used by forge.
 https://github.com/arjan/ast_ninja [] The Elixir AST explorer https://ast.ninja/
 https://github.com/arjan/idefix [] Elixir AST utility functions
+https://github.com/atamis/ironic-space-lisp [] Stepped lisp interpreter in Rust. (also Elixir)
 https://github.com/barruumrex/marshal [] Decode Ruby Marshal format in Elixir
 https://github.com/bettyblocks/liquid-elixir [] Logic-less templating engine in Elixir (patterned after Liquid)
 https://github.com/bitwalker/combine [] A parser combinator library for Elixir projects
@@ -66,10 +68,9 @@ https://github.com/tmbb/makeup_html5 [nimbleparsec] Makeup - HTML5 Language Supp
 https://github.com/tmbb/makeup_lexer_cookiecutter [nimbleparsec] Cookiecutter template for a Makeup lexer
 https://github.com/tyrchen/common_parser [nimbleparsec] General parsers for various use cases
 https://github.com/usecanvas/searchql [] Search query parser written in Elixir
+https://github.com/usecanvas/searchql [] Search query parser written in Elixir https://hex.pm/packages/searchql
 https://github.com/voltone/plug_signature [nimbleparsec] Plug for verifying request signatures according to the IETF HTTP signatures draft specification
 https://github.com/wojtekmach/calendar_recurrence [nimbleparsec] Recurrence is an Elixir library for working with recurring dates
 https://github.com/ympons/expreso [] ☕️ A boolean expression parser and evaluator in Elixir.
 https://github.com/zweifisch/eno [] Lightweight SQL toolkit for Elixir
 https://gitlab.com/ryo33/Parselix [] A parser combinator library for Elixir.
-https://github.com/atamis/ironic-space-lisp [] Stepped lisp interpreter in Rust. (also Elixir)
-https://github.com/alejandroerik/ale8583 [] ISO8583(MasterC and PROSA) parser for ELIXIR language.

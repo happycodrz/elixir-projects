@@ -1,4 +1,5 @@
 https://github.com/alexandrubagu/elixir_parser_combinators [] elixir parser combinators showcase
+https://github.com/civilcode/typist [] A DSL to define types inspired by libraries such as TypedStruct and Algae and the F# language.
 https://github.com/ejpcmac/typed_struct [] An Elixir library for defining structs with a type without writing boilerplate code.
 https://github.com/ExpressApp/construct [] Library for dealing with data structures
 https://github.com/gmartsenkov/gate [] Data validation library for elixir

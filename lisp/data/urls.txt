@@ -14,19 +14,27 @@ https://github.com/farazhaider/lispex [] Lisp Interpreter in Elixir https://fara
 https://github.com/Foo42/exlisp [] Implementation of a lisp interpreter in elixir
 https://github.com/gablg1/blisp [] Biel LISP - Simple Lisp interpreter in < 50 lines of code
 https://github.com/goto-engineering/lfex [] Lisp Flavored Elixir
+https://github.com/i2y/jet [] Jet is a simple OOP, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Jet's syntax is Ruby-like syntax.
+https://github.com/i2y/manju [] Manju is a simple object oriented, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM).
 https://github.com/jeethridge/elisper [] An attempt at writing my first lisp interpreter, in Elixir.
+https://github.com/jhbabon/brainfuck.ex [] Elixir interpreter of the Brainfuck language.
 https://github.com/jwhiteman/lighthouse-scheme [] A toy Scheme-like language on Elixir, just for fun
 https://github.com/lazycoder9/elisp [] Lisp interpretator on Elixir
 https://github.com/liveforeverx/lisir [] Simple lisp interpreter made in elixir.
 https://github.com/llamatarianism/lixp [] A lisp interpreter written in Elixir.
+https://github.com/lpil/soup [] A simple interpreted language written in Elixir
 https://github.com/lpil/soup [] A simple interpreted language written in Elixir
 https://github.com/lycus/flect [] A pragmatic, functional systems programming language.
 https://github.com/nicolasdilley/dwarf-interpreter [] The compiler for the dwarf's language
 https://github.com/nithinbekal/exlisp [] A simple lisp interpreter in Elixir
 https://github.com/nmichel/minilisp [] Playing with LISP
 https://github.com/ntchambers/whiskey [] Irish lisp
+https://github.com/pylon/lustex [] Lua-based string templates for Elixir
+https://github.com/Rob-bie/expr [] An Elixir library for parsing and evaluating mathematical expressions
+https://github.com/rob-brown/SymbolicExpression [] Parse and write s-expressions in Elixir.
 https://github.com/rpip/plex [] Plex programming language
 https://github.com/sasagawa888/Elxlisp [] Lisp1.5 interpreter/compier
+https://github.com/slapers/ex_sel [] Simple runtime expression language for elixir
 https://github.com/tamamu/macchiato [] An AltJS of a dialect of Lisp
 https://github.com/thaterikperson/erie [] A statically-typed lisp for the BEAM
 https://github.com/wpcarro/lispex [] Lisp compiler written in Elixir

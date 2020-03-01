@@ -3,6 +3,7 @@ https://github.com/danielberkompas/immortal [] Helper modules for OTP applicatio
 https://github.com/dantswain/patiently [] Helpers for waiting on asynchronous events
 https://github.com/discordapp/gen_registry [] Simple and efficient local Process Registry
 https://github.com/Frameio/parallax [] Parallelization made simple. Supports three basic use cases: running n tasks in parallel, running an arbitrary sequence of batches of parallel tasks, passing the results along the way, and nesting sequences of parallelized tasks for more complicated graphs of control flow.
+https://github.com/Fullrate/acs_ex [] An Elixir implementation of the Auto Configuration Server described in the TR-069 specification
 https://github.com/jfrolich/defer [] Defer implementation for Elixir
 https://github.com/mtrudel/thousand_island [] Thousand Island is a pure Elixir socket server
 https://github.com/nerves-project/system_registry [] Serial nested term storage and dispatch registry

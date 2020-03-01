@@ -8,6 +8,7 @@
 - [Distributed Programming](distributed/Readme.md)
 - [Ecto](ecto/Readme.md)
 - [Extending BEAM VM](extend/Readme.md)
+- [Encode/Decode Formats (JSON / XML / etc)](formats/Readme.md)
 - [Fun packages](fun/Readme.md)
 - [DSLs/Languages / Parsers](langs/Readme.md)
 - [Macro-heavy packages](macros/Readme.md)
