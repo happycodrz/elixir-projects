@@ -36,6 +36,7 @@ https://github.com/nicolasdilley/dwarf-interpreter [] The compiler for the dwarf
 https://github.com/nicolasdilley/dwarf-interpreter [] The compiler for the dwarf's language
 https://github.com/nithinbekal/exlisp [] A simple lisp interpreter in Elixir
 https://github.com/nmichel/minilisp [] Playing with LISP
+https://github.com/nshafer/Elispir [] Lisp-like run-time in Elixir
 https://github.com/ntchambers/whiskey [] Irish lisp
 https://github.com/oransimhony/calcy [] A calculator app made with leex and yecc
 https://github.com/OvermindDL1/llixer []
@@ -49,6 +50,7 @@ https://github.com/rpip/plex []
 https://github.com/rpip/plex [] Plex programming language
 https://github.com/sarat1669/rule-engine [] ...
 https://github.com/sasagawa888/Elxlisp [] Lisp1.5 interpreter/compier
+https://github.com/simonewebdesign/slfe [] Sh***y Lisp Flavoured Erlang (LFE)
 https://github.com/slapers/ex_sel [] Simple runtime expression language for elixir
 https://github.com/tamamu/macchiato [] An AltJS of a dialect of Lisp
 https://github.com/thaterikperson/erie [] A statically-typed lisp for the BEAM
