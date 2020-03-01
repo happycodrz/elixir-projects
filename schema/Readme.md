@@ -10,7 +10,9 @@
 ### By Name
 <!-- PROJECTS_LIST -->
 - [alexandrubagu/elixir_parser_combinators](https://github.com/alexandrubagu/elixir_parser_combinators) - elixir parser combinators showcase <br/> ( 2019-03-15 / 1 commits / 0 stars )
+- [camshaft/shenu](https://github.com/camshaft/shenu) - set of utilities for parsing, handling, and comparing messages <br/> ( 2016-06-20 / 12 commits / 2 stars )
 - [civilcode/typist](https://github.com/civilcode/typist) - A DSL to define types inspired by libraries such as TypedStruct and Algae and the F# language. <br/> ( 2020-01-15 / 30 commits / 1 stars )
+- [dragonwasrobot/json_schema](https://github.com/dragonwasrobot/json_schema) - A library for parsing, inspecting and manipulating JSON Schema documents <br/> ( 2020-02-03 / 120 commits / 2 stars )
 - [ejpcmac/typed_struct](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code. <br/> ( 2018-11-13 / 65 commits / 214 stars )
 - [ExpressApp/construct](https://github.com/ExpressApp/construct) - Library for dealing with data structures <br/> ( 2020-01-22 / 127 commits / 30 stars )
 - [gmartsenkov/gate](https://github.com/gmartsenkov/gate) - Data validation library for elixir <br/> ( 2020-02-12 / 74 commits / 1 stars )
@@ -32,11 +34,13 @@
 - [keathley/norm](https://github.com/keathley/norm) - Data specification and generation <br/> (140 commits / 286 stars / 2020-02-25 )
 - [ExpressApp/construct](https://github.com/ExpressApp/construct) - Library for dealing with data structures <br/> (127 commits / 30 stars / 2020-01-22 )
 - [Nebo15/nex_json_schema](https://github.com/Nebo15/nex_json_schema) - An Elixir JSON Schema validator with kosher Nebo #15 validation responses and a json path in error struct. <br/> (125 commits / 2 stars / 2019-09-25 )
+- [dragonwasrobot/json_schema](https://github.com/dragonwasrobot/json_schema) - A library for parsing, inspecting and manipulating JSON Schema documents <br/> (120 commits / 2 stars / 2020-02-03 )
 - [gmartsenkov/gate](https://github.com/gmartsenkov/gate) - Data validation library for elixir <br/> (74 commits / 1 stars / 2020-02-12 )
 - [ejpcmac/typed_struct](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code. <br/> (65 commits / 214 stars / 2018-11-13 )
 - [civilcode/typist](https://github.com/civilcode/typist) - A DSL to define types inspired by libraries such as TypedStruct and Algae and the F# language. <br/> (30 commits / 1 stars / 2020-01-15 )
 - [Nebo15/jvalid](https://github.com/Nebo15/jvalid) - Json Scheme validation helper, that allows to store schemes in a separate files. <br/> (29 commits / 5 stars / 2019-09-25 )
 - [jdl/jibe](https://github.com/jdl/jibe) - Elixir library for testing that a map/list data structure matches a particular pattern. <br/> (24 commits / 0 stars / 2019-09-24 )
+- [camshaft/shenu](https://github.com/camshaft/shenu) - set of utilities for parsing, handling, and comparing messages <br/> (12 commits / 2 stars / 2016-06-20 )
 - [whatyouhide/saul](https://github.com/whatyouhide/saul) - Data validation and conformation library for Elixir. <br/> (5 commits / 61 stars / 2017-03-09 )
 - [alexandrubagu/elixir_parser_combinators](https://github.com/alexandrubagu/elixir_parser_combinators) - elixir parser combinators showcase <br/> (1 commits / 0 stars / 2019-03-15 )
 <!-- /COMMITCOUNT_LIST -->
@@ -46,6 +50,7 @@
 <!-- ACTIVITY_LIST -->
 - [keathley/norm](https://github.com/keathley/norm) - Data specification and generation <br/> ( 2020-02-25 / 140 commits / 286 stars )
 - [gmartsenkov/gate](https://github.com/gmartsenkov/gate) - Data validation library for elixir <br/> ( 2020-02-12 / 74 commits / 1 stars )
+- [dragonwasrobot/json_schema](https://github.com/dragonwasrobot/json_schema) - A library for parsing, inspecting and manipulating JSON Schema documents <br/> ( 2020-02-03 / 120 commits / 2 stars )
 - [hrzndhrn/xema](https://github.com/hrzndhrn/xema) - Xema is a schema for Elixir validator inspired by JSON Schema. https://hexdocs.pm/xema <br/> ( 2020-01-23 / 881 commits / 14 stars )
 - [ExpressApp/construct](https://github.com/ExpressApp/construct) - Library for dealing with data structures <br/> ( 2020-01-22 / 127 commits / 30 stars )
 - [civilcode/typist](https://github.com/civilcode/typist) - A DSL to define types inspired by libraries such as TypedStruct and Algae and the F# language. <br/> ( 2020-01-15 / 30 commits / 1 stars )
@@ -56,6 +61,7 @@
 - [alexandrubagu/elixir_parser_combinators](https://github.com/alexandrubagu/elixir_parser_combinators) - elixir parser combinators showcase <br/> ( 2019-03-15 / 1 commits / 0 stars )
 - [ejpcmac/typed_struct](https://github.com/ejpcmac/typed_struct) - An Elixir library for defining structs with a type without writing boilerplate code. <br/> ( 2018-11-13 / 65 commits / 214 stars )
 - [whatyouhide/saul](https://github.com/whatyouhide/saul) - Data validation and conformation library for Elixir. <br/> ( 2017-03-09 / 5 commits / 61 stars )
+- [camshaft/shenu](https://github.com/camshaft/shenu) - set of utilities for parsing, handling, and comparing messages <br/> ( 2016-06-20 / 12 commits / 2 stars )
 <!-- /ACTIVITY_LIST -->
 
 [⬆ Navigation](#navigation)
@@ -69,11 +75,13 @@
 - [ExpressApp/construct](https://github.com/ExpressApp/construct) - Library for dealing with data structures <br/> (30 stars / 2020-01-22 / 127 commits )
 - [hrzndhrn/xema](https://github.com/hrzndhrn/xema) - Xema is a schema for Elixir validator inspired by JSON Schema. https://hexdocs.pm/xema <br/> (14 stars / 2020-01-23 / 881 commits )
 - [Nebo15/jvalid](https://github.com/Nebo15/jvalid) - Json Scheme validation helper, that allows to store schemes in a separate files. <br/> (5 stars / 2019-09-25 / 29 commits )
+- [dragonwasrobot/json_schema](https://github.com/dragonwasrobot/json_schema) - A library for parsing, inspecting and manipulating JSON Schema documents <br/> (2 stars / 2020-02-03 / 120 commits )
 - [Nebo15/nex_json_schema](https://github.com/Nebo15/nex_json_schema) - An Elixir JSON Schema validator with kosher Nebo #15 validation responses and a json path in error struct. <br/> (2 stars / 2019-09-25 / 125 commits )
+- [camshaft/shenu](https://github.com/camshaft/shenu) - set of utilities for parsing, handling, and comparing messages <br/> (2 stars / 2016-06-20 / 12 commits )
 - [civilcode/typist](https://github.com/civilcode/typist) - A DSL to define types inspired by libraries such as TypedStruct and Algae and the F# language. <br/> (1 stars / 2020-01-15 / 30 commits )
 - [gmartsenkov/gate](https://github.com/gmartsenkov/gate) - Data validation library for elixir <br/> (1 stars / 2020-02-12 / 74 commits )
-- [jdl/jibe](https://github.com/jdl/jibe) - Elixir library for testing that a map/list data structure matches a particular pattern. <br/> (0 stars / 2019-09-24 / 24 commits )
 - [alexandrubagu/elixir_parser_combinators](https://github.com/alexandrubagu/elixir_parser_combinators) - elixir parser combinators showcase <br/> (0 stars / 2019-03-15 / 1 commits )
+- [jdl/jibe](https://github.com/jdl/jibe) - Elixir library for testing that a map/list data structure matches a particular pattern. <br/> (0 stars / 2019-09-24 / 24 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)

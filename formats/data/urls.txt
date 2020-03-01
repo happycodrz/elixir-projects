@@ -1,2 +1,10 @@
+https://github.com/amorphid/json_momoa [] A streaming JSON parser/encoder written in pure Elixir
+https://github.com/camshaft/ex_htmlparser [] Forgiving html/xml parser for elixir
+https://github.com/jnylen/xler [] Excel Parser in Elixir using Rust (Mirror from Gitlab) https://gitlab.com/jnylen/xler
+https://github.com/kokolegorille/go_parser [] elixir tools and struct for parsing sgf files
+https://github.com/kortirso/yml [] Elixir package for reading/writing yml/yaml files
 https://github.com/qcam/saxy [] A fast, easy-to-use and XML 1.0 compliant XML SAX parser in Elixir https://hex.pm/packages/saxy
+https://github.com/sschneider1207/benx [] Fast Elixir parser for the Bencoding spec.
+https://github.com/tap349/yuki [] Simple CSV and TSV parser (NimbleCSV wrapper)
+https://github.com/thestakeholdercompany/icalex [] A complete set of tools to build and parse iCalendar specification
 https://github.com/xavier/xlsx_reader [] An Elixir XSLX reader.
