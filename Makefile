@@ -19,6 +19,9 @@ update_ecto:
 update_extend:
 	export UPDATER_ROOT=$$(pwd)/extend && cd ex && mix update
 
+update_formats:
+	export UPDATER_ROOT=$$(pwd)/formats && cd ex && mix update
+
 update_fun:
 	export UPDATER_ROOT=$$(pwd)/fun && cd ex && mix update
 

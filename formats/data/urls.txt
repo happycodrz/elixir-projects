@@ -1,0 +1,2 @@
+https://github.com/qcam/saxy [] A fast, easy-to-use and XML 1.0 compliant XML SAX parser in Elixir https://hex.pm/packages/saxy
+https://github.com/xavier/xlsx_reader [] An Elixir XSLX reader.
