@@ -14,6 +14,12 @@
 
 ## Languages implemented on top of Elixir
 - https://doc.botsquad.com/bubblescript/statements/
+- https://github.com/colocolo317/farmbot/tree/master/lib/farmbot/celery_script (https://developer.farm.bot/docs/celery-script)
+
+
+## Examples for yecc / leex
+- https://github.com/ympons/expreso/tree/master/src
+- https://github.com/mischov/meeseeks/tree/master/src
 
 ### Navigation
 
