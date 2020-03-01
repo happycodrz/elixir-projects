@@ -1,5 +1,7 @@
 ## Different Encoders / Decoders for Elixir / Erlang (JSON / XML / XLSX / etc)
 
+- [Inside a streaming parser - Saxy - 2018/09](https://hqc.io/posts/inside-a-streaming-parser)
+
 ### Navigation
 
 - [By Name](#by-name)
