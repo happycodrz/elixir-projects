@@ -4,6 +4,9 @@ update_admin:
 update_algos:
 	export UPDATER_ROOT=$$(pwd)/algos && cd ex && mix update
 
+update_cms:
+	export UPDATER_ROOT=$$(pwd)/cms && cd ex && mix update
+
 update_config:
 	export UPDATER_ROOT=$$(pwd)/config && cd ex && mix update
 

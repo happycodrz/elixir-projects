@@ -4,6 +4,7 @@
 - [Admin / MVP libs](admin/Readme.md)
 - [Algorithms / Datastructures](algos/Readme.md)
 - [Configuration](config/Readme.md)
+- [CMS](cms/Readme.md)
 - [Databases](dbs/Readme.md)
 - [Distributed Programming](distributed/Readme.md)
 - [Ecto](ecto/Readme.md)
