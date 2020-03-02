@@ -18,6 +18,7 @@
 
 
 ## Examples for yecc / leex
+- https://pl-rants.net/posts/leex-yecc-in-elixir/
 - https://github.com/ympons/expreso/tree/master/src
 - https://github.com/mischov/meeseeks/tree/master/src
 
