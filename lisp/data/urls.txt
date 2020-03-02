@@ -44,6 +44,7 @@ https://github.com/OvermindDL1/safe_script [] Simple languages designed for embe
 https://github.com/PatrykSzydlowski/elixir-calculator []
 https://github.com/pylon/lustex [] Lua-based string templates for Elixir
 https://github.com/Quantum238/elox [] Elixir Version of Lox
+https://github.com/radar/writing-an-interpreter-in-elixir [] This is my attempt to follow along with the book Writing an Interpreter in Go but writing the code in Elixir instead of Go.
 https://github.com/Rob-bie/expr [] An Elixir library for parsing and evaluating mathematical expressions
 https://github.com/rob-brown/SymbolicExpression [] Parse and write s-expressions in Elixir.
 https://github.com/rpip/plex []
