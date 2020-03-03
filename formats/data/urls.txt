@@ -1,4 +1,5 @@
 https://github.com/amorphid/json_momoa [] A streaming JSON parser/encoder written in pure Elixir
+https://github.com/boudra/jaxon [] Stream large JSON files in Elixir
 https://github.com/camshaft/ex_htmlparser [] Forgiving html/xml parser for elixir
 https://github.com/jnylen/xler [] Excel Parser in Elixir using Rust (Mirror from Gitlab) https://gitlab.com/jnylen/xler
 https://github.com/kokolegorille/go_parser [] elixir tools and struct for parsing sgf files

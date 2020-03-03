@@ -11,4 +11,6 @@ https://github.com/jonasschmidt/ex_json_schema []
 https://github.com/keathley/norm [] Data specification and generation
 https://github.com/Nebo15/jvalid [] Json Scheme validation helper, that allows to store schemes in a separate files.
 https://github.com/Nebo15/nex_json_schema []
+https://github.com/well-ironed/data [] Extensions to Elixir data structures
+https://github.com/well-ironed/fe [] Functional Elixir
 https://github.com/whatyouhide/saul [] Data validation and conformation library for Elixir.
