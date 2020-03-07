@@ -1,4 +1,6 @@
 https://github.com/bitwalker/libring [] A fast consistent hash ring implementation in Elixir
+https://github.com/botsquad/bubble_lib [] Generic collection of utility functions for BubbleScript
+https://github.com/botsquad/match_engine [] In-memory matching/filtering engine with Mongo-like query syntax
 https://github.com/ExpressApp/construct_types [] ConstructTypes
 https://github.com/gyson/blex [] Fast Bloom filter with concurrent accessibility, powered by :atomics module.
 https://github.com/infinitered/maybe [] Access Elixir maps and structs, protected from `nil`
