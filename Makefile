@@ -40,6 +40,9 @@ update_macros:
 update_msgque:
 	export UPDATER_ROOT=$$(pwd)/msgque && cd ex && mix update
 
+update_prod:
+	export UPDATER_ROOT=$$(pwd)/prod && cd ex && mix update
+
 update_protection:
 	export UPDATER_ROOT=$$(pwd)/protection && cd ex && mix update
 

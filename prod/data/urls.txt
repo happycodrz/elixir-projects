@@ -1,0 +1,2 @@
+https://github.com/fhunleth/toolshed [] A toolshed of IEx helpers
+https://github.com/liveforeverx/exrun [] Runtime and debugging tools for elixir

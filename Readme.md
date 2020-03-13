@@ -14,6 +14,7 @@
 - [DSLs/Languages / Parsers](langs/Readme.md)
 - [Macro-heavy packages](macros/Readme.md)
 - [Message Queues](msgque/Readme.md)
+- [Production troubleshooting](prod/Readme.md)
 - [Protection / DDOS / Security](protection/Readme.md)
 - [OTP](otp/Readme.md)
 - [Schema / Validation](schema/Readme.md)
