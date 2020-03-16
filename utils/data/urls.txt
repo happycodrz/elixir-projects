@@ -4,6 +4,8 @@ https://github.com/membraneframework/bunch [] A bunch of helper functions, inten
 https://github.com/michaeljguarino/piazza_core [] common utilities for piazza
 https://github.com/myskoach/swiss [] Extensions to common types in the standard elixir lib
 https://github.com/planswell/kitchen-sink [] Elixir Stdlib Extensions
+https://github.com/seanomlor/extras [] Tiny, tested, namespaced helper functions for Elixir
+https://github.com/urbint/extra [] A collection of extra utilities and extensions to the Elixir standard library
 https://github.com/VeryBigThings/elixir_common [] A library which contains various utilities used in different VBT projects.
 https://github.com/VeryBigThings/elixir_common_temp [] A library which contains various utilities used in different VBT (VeryBigThings) projects.
 https://github.com/VeryBigThings/skafolder [] A library for generating standard configuration files for Elixir projects such as:
