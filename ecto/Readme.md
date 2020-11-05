@@ -10,7 +10,9 @@
 ### By Name
 <!-- PROJECTS_LIST -->
 - [crbelaus/trans](https://github.com/crbelaus/trans) - Embedded translations for Elixir <br/> ( 2020-02-01 / 203 commits / 165 stars )
+- [duffelhq/paginator](https://github.com/duffelhq/paginator) - Cursor-based pagination for Elixir Ecto <br/> ( 2020-10-12 / 87 commits / 279 stars )
 - [imranismail/ecto_bitfield](https://github.com/imranismail/ecto_bitfield) - Use bitfields with ecto schemas https://hexdocs.pm/ecto_bitfield/EctoBitfield.html <br/> ( 2020-04-24 / 18 commits / 5 stars )
+- [mathieuprog/polymorphic_embed](https://github.com/mathieuprog/polymorphic_embed) - Polymorphic embeds in Ecto <br/> ( 2020-11-04 / 67 commits / 49 stars )
 - [Nebo15/ecto_trail](https://github.com/Nebo15/ecto_trail) - EctoTrail allows to store Ecto changeset changes in a separate audit_log table. <br/> ( 2020-07-17 / 26 commits / 44 stars )
 - [Qqwy/elixir-revisionair](https://github.com/Qqwy/elixir-revisionair) - Keep track of your data structure's revisions, persistence layer agnostic. <br/> ( 2020-09-02 / 38 commits / 20 stars )
 - [Qqwy/elixir-revisionair_ecto](https://github.com/Qqwy/elixir-revisionair_ecto) - A Revisionair adapter based on Ecto. Allows you to persist and keep track of revisions of your data structures in any of Ecto's supported databases. <br/> ( 2020-09-18 / 54 commits / 15 stars )
@@ -24,7 +26,9 @@
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
 - [crbelaus/trans](https://github.com/crbelaus/trans) - Embedded translations for Elixir <br/> (203 commits / 165 stars / 2020-02-01 )
+- [duffelhq/paginator](https://github.com/duffelhq/paginator) - Cursor-based pagination for Elixir Ecto <br/> (87 commits / 279 stars / 2020-10-12 )
 - [zenneriot/ex_audit](https://github.com/zenneriot/ex_audit) - Ecto auditing library that transparently tracks changes and can revert them. <br/> (86 commits / 193 stars / 2020-06-01 )
+- [mathieuprog/polymorphic_embed](https://github.com/mathieuprog/polymorphic_embed) - Polymorphic embeds in Ecto <br/> (67 commits / 49 stars / 2020-11-04 )
 - [Qqwy/elixir-revisionair_ecto](https://github.com/Qqwy/elixir-revisionair_ecto) - A Revisionair adapter based on Ecto. Allows you to persist and keep track of revisions of your data structures in any of Ecto's supported databases. <br/> (54 commits / 15 stars / 2020-09-18 )
 - [Qqwy/elixir-revisionair](https://github.com/Qqwy/elixir-revisionair) - Keep track of your data structure's revisions, persistence layer agnostic. <br/> (38 commits / 20 stars / 2020-09-02 )
 - [Nebo15/ecto_trail](https://github.com/Nebo15/ecto_trail) - EctoTrail allows to store Ecto changeset changes in a separate audit_log table. <br/> (26 commits / 44 stars / 2020-07-17 )
@@ -36,6 +40,8 @@
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [mathieuprog/polymorphic_embed](https://github.com/mathieuprog/polymorphic_embed) - Polymorphic embeds in Ecto <br/> ( 2020-11-04 / 67 commits / 49 stars )
+- [duffelhq/paginator](https://github.com/duffelhq/paginator) - Cursor-based pagination for Elixir Ecto <br/> ( 2020-10-12 / 87 commits / 279 stars )
 - [Qqwy/elixir-revisionair_ecto](https://github.com/Qqwy/elixir-revisionair_ecto) - A Revisionair adapter based on Ecto. Allows you to persist and keep track of revisions of your data structures in any of Ecto's supported databases. <br/> ( 2020-09-18 / 54 commits / 15 stars )
 - [Qqwy/elixir-revisionair](https://github.com/Qqwy/elixir-revisionair) - Keep track of your data structure's revisions, persistence layer agnostic. <br/> ( 2020-09-02 / 38 commits / 20 stars )
 - [Nebo15/ecto_trail](https://github.com/Nebo15/ecto_trail) - EctoTrail allows to store Ecto changeset changes in a separate audit_log table. <br/> ( 2020-07-17 / 26 commits / 44 stars )
@@ -50,8 +56,10 @@
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
+- [duffelhq/paginator](https://github.com/duffelhq/paginator) - Cursor-based pagination for Elixir Ecto <br/> (279 stars / 2020-10-12 / 87 commits )
 - [zenneriot/ex_audit](https://github.com/zenneriot/ex_audit) - Ecto auditing library that transparently tracks changes and can revert them. <br/> (193 stars / 2020-06-01 / 86 commits )
 - [crbelaus/trans](https://github.com/crbelaus/trans) - Embedded translations for Elixir <br/> (165 stars / 2020-02-01 / 203 commits )
+- [mathieuprog/polymorphic_embed](https://github.com/mathieuprog/polymorphic_embed) - Polymorphic embeds in Ecto <br/> (49 stars / 2020-11-04 / 67 commits )
 - [Nebo15/ecto_trail](https://github.com/Nebo15/ecto_trail) - EctoTrail allows to store Ecto changeset changes in a separate audit_log table. <br/> (44 stars / 2020-07-17 / 26 commits )
 - [Qqwy/elixir-revisionair](https://github.com/Qqwy/elixir-revisionair) - Keep track of your data structure's revisions, persistence layer agnostic. <br/> (20 stars / 2020-09-02 / 38 commits )
 - [revelrylabs/ecto_explain](https://github.com/revelrylabs/ecto_explain) -  <br/> (15 stars / 2019-04-18 / 25 commits )
