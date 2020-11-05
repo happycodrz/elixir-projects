@@ -9,3 +9,4 @@ https://github.com/mtrudel/thousand_island [] Thousand Island is a pure Elixir s
 https://github.com/nerves-project/system_registry [] Serial nested term storage and dispatch registry
 https://github.com/RaymondLoranger/dynamic_supervisor_proxy [] Starts a module-based supervisor process. Will wait a bit if the supervisor name is still registered on restarts.
 https://github.com/RaymondLoranger/gen_server_proxy [] Performs a GenServer call, cast or stop. Will wait a bit if the server is not yet registered on restarts.
+https://github.com/sasa1977/parent [] Custom parenting of processes in Elixir

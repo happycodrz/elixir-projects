@@ -1,5 +1,6 @@
 https://github.com/digitalorigin/pg-elixir-tools [] Shared elixir tools
 https://github.com/elixir-cldr/cldr_utils [] Map, Math, String, Calendar utility functions for ex_cldr
+https://github.com/henriquefernandez/use_case [] A way to increase Elixir projects readability and maintenance. Heavily inspired by Clean Architecture.
 https://github.com/membraneframework/bunch [] A bunch of helper functions, intended to make life easier
 https://github.com/michaeljguarino/piazza_core [] common utilities for piazza
 https://github.com/myskoach/swiss [] Extensions to common types in the standard elixir lib

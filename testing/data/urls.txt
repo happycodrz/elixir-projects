@@ -1,9 +1,11 @@
+https://github.com/Aircloak/phoenix_gen_socket_client [] Socket client behaviour for phoenix channels
 https://github.com/am-kantox/cloister [] Lightweight Cluster handling with support for consensus and dynamic configuration
 https://github.com/am-kantox/test_cluster_task [] Run tests in a distributed environment (cluster with several nodes)
 https://github.com/Apelsinka223/test_match [] Recursive matching https://hexdocs.pm/test_match
 https://github.com/bitwalker/ex_unit_clustered_case [] An extension for ExUnit for simplifying tests against a clustered application
 https://github.com/boydm/phoenix_integration [] Lightweight server side integration test tools for Phoenix
 https://github.com/ironbay/tunk [] Elixir application for forwarding Google Cloud Platform build statuses to Github and Slack.
+https://github.com/jdl/jibe [] Elixir library for testing that a map/list data structure matches a particular pattern.
 https://github.com/sschneider1207/distributed_test [] Mix task for running tests for a distributed application
 https://github.com/tokubass/ex_struct_assert [] A useful tool for testing sturct and map in Elixir.
 https://github.com/whitfin/local-cluster [] Easy local cluster creation for Elixir to aid in unit testing
