@@ -67,6 +67,9 @@ update_terminal:
 update_utils:
 	export UPDATER_ROOT=$$(pwd)/utils && cd ex && mix update
 
+update_web:
+	export UPDATER_ROOT=$$(pwd)/web && cd ex && mix update
+
 all: update_algos \
 		update_config \
 		update_dbs \
